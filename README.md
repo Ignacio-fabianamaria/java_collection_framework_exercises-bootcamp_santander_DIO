@@ -10,3 +10,7 @@
 ## Ordenação em List
 
 ### 1. Ordenação de Pessoas
+
+## Operações Básicas com Set
+
+### 1. Conjunto de convidados
