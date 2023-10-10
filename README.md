@@ -1,2 +1,5 @@
+# HANDS ON: COLLECTIONS FRAMEWORK - BOOTCAMP SANTANDER & DIO
 
-# java_collection_framework_exercises-bootcamp_santander_DIO
+## Operações Básicas com List
+
+### 1. Lista de tarefas
