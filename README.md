@@ -3,3 +3,6 @@
 ## Operações Básicas com List
 
 ### 1. Lista de tarefas
+
+## Pesquisa em List
+### 1. Catálago de livros
