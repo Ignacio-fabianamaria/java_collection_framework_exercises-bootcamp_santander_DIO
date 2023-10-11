@@ -3,5 +3,12 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
+    ],
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-20",
+            "path": "/usr/lib/jvm/java-11-openjdk-amd64/bin/java",
+            "default": true
+        }
     ]
 }
