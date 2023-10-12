@@ -1,16 +1,17 @@
 # HANDS ON: COLLECTIONS FRAMEWORK - BOOTCAMP SANTANDER & DIO
 
+<hr>
+
+# List
 ## Operações Básicas com List
 
 ### 1. Lista de tarefas
 
-<hr>
 
 ## Pesquisa em List
 
 ### 1. Catálago de livros
 
-<hr>
 
 ## Ordenação em List
 
@@ -18,17 +19,16 @@
 
 <hr>
 
+# Set
+
 ## Operações Básicas com Set
 
 ### 1. Conjunto de convidados
 
-<hr>
 
 ## Pesquisa com Set
 
 ### 1. Agenda de Contatos
-
-<hr>
 
 ## Ordenação em Set
 
@@ -36,8 +36,12 @@
 
 <hr>
 
+# Map
+
 ## Operações Básicas com Map
 
 ### 1. Agenda de Contatos
 
-<hr>
+## Pesquisa com Map
+
+### 1. Estoque de Produtos
